@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Votos"
+    }
+  },
+  "defaultProject": "Votos",
+  "cli": {
+    "analytics": "e8f7da09-4c76-458a-ae58-00afb8d0f10e"
+  }
 }
